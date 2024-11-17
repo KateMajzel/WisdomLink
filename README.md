@@ -16,7 +16,8 @@ Conversational AI Hackathon with IBM watsonx Assistant.
 
 ![4](https://github.com/user-attachments/assets/1a2ec460-9d69-4a77-92e7-68f82f760226)
 
-![5](https://github.com/user-attachments/assets/177216e9-a1fc-42ff-beab-960bb7fa8995)
+![5](https://github.com/user-attachments/assets/65807e80-047e-4723-bc72-47b49a6d54c9)
+
 
 ### Design an assistant that can:
 ### TELL - in the example of the logistics company, it says what is the stock.
@@ -34,11 +35,19 @@ https://github.com/user-attachments/assets/f4aa7491-f665-4953-9f9e-daab02450f01
 
 https://github.com/user-attachments/assets/70e38ab4-a866-4fb4-8729-e96ae5b122a8
 
+A visual version of the assistant:
+
+![Greet customer (1)](https://github.com/user-attachments/assets/913da673-eb3d-4643-b35e-7ebfe634ba01)
+
+Example of training an assistant:
+
+![Zrzut ekranu 2024-11-17 150540](https://github.com/user-attachments/assets/253d2772-ec63-490f-9989-0fd0ea050aaa)
+
+![6](https://github.com/user-attachments/assets/35e69d8d-8b48-4f0f-8bb4-d672133507dd)
 
 
-![6](https://github.com/user-attachments/assets/317f6d17-2582-4120-a10b-5e84abd7c137)
+![7](https://github.com/user-attachments/assets/ee989c9b-ecfc-4163-a233-68b794d10ba5)
 
-![7](https://github.com/user-attachments/assets/a08f8214-40a4-464e-ba51-6ddba4c640fb)
 
 ![8](https://github.com/user-attachments/assets/432ca1be-4548-47f1-b95e-31508acd399f)
 
