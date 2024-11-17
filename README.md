@@ -1,9 +1,12 @@
-# WisdomLink
+### WisdomLink
 
-Watsonx assistant for intelligent enterprise knowledge management
+⚡Watsonx assistant for intelligent enterprise knowledge management
 
-An advanced Watsonx assistant that is revolutionizing the way large organizations manage knowledge. The Assistant serves as a central point of access to information, enabling employees to quickly and intuitively find the data, documents, procedures and answers to questions related to their work that they need.
+💻 An advanced Watsonx assistant that is revolutionizing the way large organizations manage knowledge. The Assistant serves as a central point of access to information, enabling employees to quickly and intuitively find the data, documents, procedures and answers to questions related to their work that they need.
 
+Conversational AI Hackathon with IBM watsonx Assistant.
+
+### 🛠  Tech Stack: IBM Watson
 
 ![1](https://github.com/user-attachments/assets/2054a562-62f5-4318-8287-70df8e7ad55f)
 
@@ -15,9 +18,21 @@ An advanced Watsonx assistant that is revolutionizing the way large organization
 
 ![5](https://github.com/user-attachments/assets/177216e9-a1fc-42ff-beab-960bb7fa8995)
 
-
+### Design an assistant that can:
+# TELL - in the example of the logistics company, it says what is the stock.
+# SHOW - information about the contract with the selected company.
+# DO - sends a fault message to the technical department.
 
 https://github.com/user-attachments/assets/2527086c-ab10-4a02-915f-338a394491c0
+
+
+
+https://github.com/user-attachments/assets/f4aa7491-f665-4953-9f9e-daab02450f01
+
+
+
+
+https://github.com/user-attachments/assets/70e38ab4-a866-4fb4-8729-e96ae5b122a8
 
 
 
