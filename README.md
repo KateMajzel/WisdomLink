@@ -7,6 +7,8 @@ An advanced Watsonx assistant that is revolutionizing the way large organization
 
 ![1](https://github.com/user-attachments/assets/2054a562-62f5-4318-8287-70df8e7ad55f)
 
+![2](https://github.com/user-attachments/assets/538a9d9e-d5b5-4942-a99f-173ba4b200f6)
+
 ![3](https://github.com/user-attachments/assets/5abeefe0-1fb9-40fb-8474-45c278c0d890)
 
 ![4](https://github.com/user-attachments/assets/1a2ec460-9d69-4a77-92e7-68f82f760226)
@@ -21,5 +23,6 @@ An advanced Watsonx assistant that is revolutionizing the way large organization
 
 ![8](https://github.com/user-attachments/assets/432ca1be-4548-47f1-b95e-31508acd399f)
 
+![9](https://github.com/user-attachments/assets/73ff19f6-387d-4f31-b92c-bbbd69ba8b46)
 
 
