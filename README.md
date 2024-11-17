@@ -22,7 +22,7 @@ Conversational AI Hackathon with IBM watsonx Assistant.
 ### Design an assistant that can:
 ### TELL - in the example of the logistics company, it says what is the stock.
 ### SHOW - information about the contract with the selected company.
-### DO - sends a fault message to the technical department.
+### DO - sent an error report to the technical department on behalf of the employee.
 
 https://github.com/user-attachments/assets/2527086c-ab10-4a02-915f-338a394491c0
 
