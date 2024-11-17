@@ -17,6 +17,10 @@ An advanced Watsonx assistant that is revolutionizing the way large organization
 
 
 
+https://github.com/user-attachments/assets/2527086c-ab10-4a02-915f-338a394491c0
+
+
+
 ![6](https://github.com/user-attachments/assets/317f6d17-2582-4120-a10b-5e84abd7c137)
 
 ![7](https://github.com/user-attachments/assets/a08f8214-40a4-464e-ba51-6ddba4c640fb)
